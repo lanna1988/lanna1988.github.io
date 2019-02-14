@@ -78,6 +78,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
+  type: git
   repository: https://github.com/lanna1988/lanna1988.github.io.git
   brancn: master
